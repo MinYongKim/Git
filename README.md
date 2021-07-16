@@ -202,6 +202,8 @@ git clone https://github.com/MinYongKim/first.git
 
 
 
+###  `git 소스코드 복사`
+git clone [저장소주소]
 
 
 
