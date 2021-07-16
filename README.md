@@ -22,7 +22,23 @@
   - Local Repository, Remote Repository
 - Collaborate 협업
 
+###  `Git 기본 명령어`
 
+`pwd` : 현재 위치
+
+`~`(home directory): 홈 디렉토리(git bash 처음 열면 나오는 기본 폴더)
+
+`ls` : 현재 위치의 폴더 및 파일  리스트
+
+`ls` -a : 숨긴 파일 까지 표시
+
+`mkdir` [폴더명] : 폴더 생성
+
+`cd` [폴더명]/ : 위치 이동 (하위폴더 이동)
+
+`cd ..` : 간단하게 뒤로가기(상위폴더 이동)
+
+`cd.` : 현재 폴더로 이동
 
 ## Git 버전관리(Version)
 
